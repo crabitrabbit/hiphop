@@ -1,0 +1,2 @@
+# hiphop
+Audio visualization library
